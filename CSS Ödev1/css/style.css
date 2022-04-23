@@ -1,0 +1,36 @@
+.content {
+    text-align: center;
+}
+
+.header {
+    word-spacing: 10px;   
+}
+
+.products {
+    list-style-position: inside;
+}
+
+.about {
+    padding: 5%;
+}
+
+img {
+    height: 230px;
+}
+
+h1  {
+    color: crimson;
+}
+
+h2  {
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    color: crimson;
+}
+
+#list {
+    list-style-position: inside;
+}

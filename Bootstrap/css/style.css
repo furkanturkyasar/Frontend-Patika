@@ -1,0 +1,12 @@
+#jumbo-bg-color {
+    background-color: #E9ECEF;
+}
+
+#product-list {
+    text-align: center;
+    list-style-type: none;
+}
+
+.row {
+    margin: 15;
+}

@@ -46,3 +46,20 @@ input.empty {
   text-decoration: none;
   color: lightgrey;
 }
+
+.card-header {
+  background-color: white;
+}
+
+.card-footer {
+  background-color: white;
+}
+
+#sticky-sidebar {
+  position: sticky;
+}
+
+.rightpanel {
+  background-color: white;
+  border: none;
+}
